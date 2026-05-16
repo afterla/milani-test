@@ -23,5 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 
-#Ignorar archivos de configuracion de entorno
-.env
